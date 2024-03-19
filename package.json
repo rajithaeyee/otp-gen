@@ -1,0 +1,23 @@
+{
+  "name": "otp-gen",
+  "version": "1.0.0",
+  "description": "a package to generate OTP codes",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OTP",
+    "otp-generator",
+    "generator"
+  ],
+  "author": "rajithaeyee",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.2"
+  }
+}
