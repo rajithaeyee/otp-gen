@@ -22,7 +22,7 @@ Flexible and easy-to-use API
 
 ### commonJS
 ```js
-const { generateOTP } = require('otp-generator-next')
+const { generateOTP } = require('otp-gen-next')
 
 generateOTP(6, { upperCaseAlphabets: false, specialChars: false });
 
