@@ -22,9 +22,9 @@ Flexible and easy-to-use API
 
 ### commonJS
 ```js
-const {otpGenerator} = require('otp-generator')
+const { generateOTP } = require('otp-generator')
 
-otpGenerator.generate(6, { upperCaseAlphabets: false, specialChars: false });
+generateOTP(6, { upperCaseAlphabets: false, specialChars: false });
 
 ```
 ### TypeScript
