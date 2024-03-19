@@ -16,5 +16,5 @@ Generate secure one-time passwords (OTP) for your applications with ease using t
 Install the package via npm:
 
 ```bash
-npm install @your-package/otp-generator
+npm install otp-get-next
 

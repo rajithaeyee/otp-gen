@@ -1,6 +1,6 @@
 import { OTPOptions } from './types';
 
-export default function generateOTP(length: number, options: Partial<OTPOptions>): string {
+export function generateOTP(length: number = 4, options?: Partial<OTPOptions>): string {
     const defaults: OTPOptions = {
         numeric: true,
         alphabetic: true,
