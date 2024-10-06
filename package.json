@@ -1,6 +1,6 @@
 {
   "name": "otp-gen-next",
-  "version": "1.7.0",
+  "version": "1.9.1",
   "description": "a package to generate OTP codes",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
