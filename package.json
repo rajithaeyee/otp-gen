@@ -1,6 +1,6 @@
 {
   "name": "otp-gen-next",
-  "version": "1.9.1",
+  "version": "1.9.2",
   "description": "a package to generate OTP codes",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,13 +14,16 @@
   },
   "homepage": "https://github.com/rajithaeyee/otp-gen#readme",
   "scripts": {
-    "build": "tsup",
+    "build": "tsup --minify",
     "test": "jest"
   },
   "keywords": [
     "OTP",
     "otp-generator",
-    "generator"
+    "generator",
+    "password-generator",
+    "password",
+    "passwords"
   ],
   "author": "rajithaeyee",
   "license": "MIT",
