@@ -2,7 +2,7 @@
 
 ![test workflow](https://github.com/rajithaeyee/otp-gen/actions/workflows/test.yml/badge.svg)
 
-Generate secure one-time passwords (OTP) for your applications with ease using this versatile OTP generator package. Whether you need numeric, alphabetic, or special character OTPs, this package has you covered. It offers various customization options to tailor the OTP generation process according to your specific requirements.
+Generate secure one-time passwords (OTP) for your applications with ease using this OTP generator package. Whether you need numeric, alphabetic, or special character OTPs, this package has you everything you need. and offers various customization options to generate flexible one-time passwords.
 
 ## Installation
 
