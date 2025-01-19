@@ -21,8 +21,8 @@ Add custom characters to the OTP generation process
 Flexible and easy-to-use API
 
 ## Playground
-![otp-gen-next](https://imgur.com/a/RQesA7K)
 [Go to Playground](https://rajithaeyee.github.io/otp-gen/)
+![otp-gen-next](https://github.com/user-attachments/assets/63b1f163-aafa-490b-9a15-88f481634e19)
 
 
 ## Usage
