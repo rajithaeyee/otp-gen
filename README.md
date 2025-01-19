@@ -20,12 +20,17 @@ Exclude ambiguous characters like '{}' or '[]' that can be confused
 Add custom characters to the OTP generation process
 Flexible and easy-to-use API
 
+## Playground
+![otp-gen-next](https://imgur.com/a/RQesA7K)
+[Go to Playground](https://rajithaeyee.github.io/otp-gen/)
+
+
 ## Usage
 
 ### commonJS
 ```js
 const { generateOTP } = require('otp-gen-next')
-
+generateOTP(); //generates a otp with default options with the length of 4
 generateOTP(6, { upperCaseAlphabets: false, specialChars: false });
 
 ```
